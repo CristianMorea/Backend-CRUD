@@ -33,8 +33,7 @@ public class UserService implements IUserService {
 
     @Override
     public User findByUsername(String username) {
-
-        return null;
+        return userRepository.findByUsername(username);
     }
 
     @Override
