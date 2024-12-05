@@ -21,7 +21,9 @@ INSERT INTO producto(id, nombre,precio,id_fabricante) VALUES (10,'Impresora HP D
 INSERT INTO producto(id, nombre,precio,id_fabricante) VALUES (11,'Impresora HP Laserjet Pro M26nw',180,3);
 
 
-
-
+INSERT INTO Usuario(id, username, apellido, email) VALUES (1,"cristian","Toconas","Cristian@gmeil.com");
+INSERT INTO Usuario(id, username, apellido, email) VALUES (2,"David","Morea","David@gmeil.com");
+INSERT INTO Usuario(id, username, apellido, email) VALUES (3,"Sofia","Dussan","Sofia@gmeil.com");
+INSERT INTO Usuario(id, username, apellido, email) VALUES (4,"Daniela","Andrade","Daniela@gmeil.com");
 
 
